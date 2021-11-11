@@ -1,15 +1,10 @@
 package aut;
 
-public class CLasseTeste {
+public class Classe2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-///oiiiii
-		
-		// acrescentando mais comando 
-		//
-		//pp
-		//p
+
 	}
 
 }
